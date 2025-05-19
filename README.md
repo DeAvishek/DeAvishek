@@ -26,8 +26,6 @@
   <a href="https://leetcode.com/u/Code_or_Die" target="_blank">
     <img src="https://iconscout.com/lottie-animation/leetcode-logo-10982203_8859709" width="50" height="50" alt="LeetCode" />
   </a>
-  <a>
-    <img src="https://iconscout.com/lottie-animation/linkedin-5704169_4740779" width="50" height="50" alt="Linkedin">
-  <a>
+ 
 </div>
 
