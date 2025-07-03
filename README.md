@@ -24,7 +24,7 @@
 <h2>Connect with Me</h2>
 <div>
   <a href="https://leetcode.com/u/Code_or_Die" target="_blank">
-    <img src="https://iconscout.com/free-icon/leetcode-3521542_2944960" width="50" height="50" alt="LeetCode" />
+    <img src="[https://iconscout.com/free-icon/leetcode-3521542_2944960](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png?f=webp&w=256)" width="50" height="50" alt="LeetCode" />
   </a>
  
 </div>
