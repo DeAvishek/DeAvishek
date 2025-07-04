@@ -30,7 +30,7 @@
     <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50 height="50" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/patraavishek/" target="_blank>
-  <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="50  height=50 alt = "LinkedIn"/>
+     <img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="50"  height="50" alt = "LinkedIn"/>
   </a>
 </div>
 
