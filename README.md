@@ -23,14 +23,17 @@
 </div>
 <h2>Connect with Me</h2>
 <div>
-  <a href="https://leetcode.com/u/Code_or_Die" target="_blank">
-    <img src="https://store-images.s-microsoft.com/image/apps.20819.12392bc6-d428-4ae9-8494-fa0e23364b47.1768baa2-b5e8-4b05-8ec9-7ac09a6f45b2.90596b28-842d-42b8-969d-8ce51502f758" width="50" height="50" alt="LeetCode" />
-  </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfghgTvbKVzTtnwSXTWjmhJrZfHWxwWbXBTMNsQZGhwfmPkXRMBBpbzghRCXzlxSsKbq">
     <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50 height="50" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/patraavishek/" target="_blank>
      <img src="[https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" width="50"  height="50" alt = "LinkedIn"/>
+  </a>
+</div>
+<h2>My Competitive Profiles</h2>
+<div>
+  <a href="https://leetcode.com/u/Code_or_Die" target="_blank">
+    <img src="https://store-images.s-microsoft.com/image/apps.20819.12392bc6-d428-4ae9-8494-fa0e23364b47.1768baa2-b5e8-4b05-8ec9-7ac09a6f45b2.90596b28-842d-42b8-969d-8ce51502f758" width="50" height="50" alt="LeetCode" />
   </a>
 </div>
 
