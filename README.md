@@ -24,9 +24,9 @@
 <h2>Connect with Me</h2>
 <div>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfghgTvbKVzTtnwSXTWjmhJrZfHWxwWbXBTMNsQZGhwfmPkXRMBBpbzghRCXzlxSsKbq">
-    <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50 height="50" alt="Gmail"/>
+    <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" height="50" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/patraavishek/" target="_blank>
+  <a href="https://www.linkedin.com/in/patraavishek/">
      <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="50"  height="50" alt = "LinkedIn"/>
   </a>
 </div>
