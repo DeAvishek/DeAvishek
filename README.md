@@ -52,7 +52,7 @@
 ---
 
 ## 💡 Personal Projects  
-- 🎟 **Movie Ticket Booking App (MERN + Razorpay)** – Dynamic seat booking & recommendations  
+- 🎟 **Movie Ticket Booking App (MERN + Stripe)** – Dynamic seat booking & recommendations  
 - 💰 **Expense Tracker (MERN)** – Track & visualize expenses  
 - 🤖 **AI-Powered Appointment Booking App** – Coming soon  
 
