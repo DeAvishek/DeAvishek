@@ -22,14 +22,18 @@
   <!-- Add more icons here -->
 </div>
 <h2>Connect with Me</h2>
-<div>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfghgTvbKVzTtnwSXTWjmhJrZfHWxwWbXBTMNsQZGhwfmPkXRMBBpbzghRCXzlxSsKbq">
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfghgTvbKVzTtnwSXTWjmhJrZfHWxwWbXBTMNsQZGhwfmPkXRMBBpbzghRCXzlxSsKbq" style="transform: translateY(-8px);">
     <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" height="50" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/patraavishek/">
-     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50"  height="50" alt = "LinkedIn"/>
+  <a href="https://www.linkedin.com/in/patraavishek/" style="transform: translateY(8px);">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourusername" style="transform: translateY(-8px);">
+    <img src="https://www.svgrepo.com/show/452611/twitter.svg" width="50" height="50" alt="Twitter"/>
   </a>
 </div>
+
 <h2>My Competitive Profiles</h2>
 <div>
   <a href="https://leetcode.com/u/Code_or_Die" target="_blank">
