@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/patraavishek/">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="[https://twitter.com/yourusername](https://x.com/Avishek96233923)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="50" />
   </a>
 </div>
