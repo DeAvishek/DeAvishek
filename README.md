@@ -27,7 +27,7 @@
     <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" height="50" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/patraavishek/">
-     <img src="[https://www.svgrepo.com/show/475661/linkedin-color.svg](https://www.svgrepo.com/show/452047/linkedin-1.svg)" width="50"  height="50" alt = "LinkedIn"/>
+     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50"  height="50" alt = "LinkedIn"/>
   </a>
 </div>
 <h2>My Competitive Profiles</h2>
