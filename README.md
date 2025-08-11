@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Languages, Tools & Frameworks  
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
@@ -27,7 +27,7 @@
 ---
 
 ## 🌐 Connect with Me  
-<div align="center" style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; align-items: center;">
   <a href="mailto:patraavishek@gmail.com">
     <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" />
   </a>
@@ -42,7 +42,7 @@
 ---
 
 ## 🏆 Competitive Profiles  
-<div align="center">
+<div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://leetcode.com/u/Code_or_Die">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" />
   </a>
