@@ -1,48 +1,59 @@
-- 👋 Hi, I’m @DeAvishek
-- 👀 I’m interested in ... software devlopement(web),ML and Artificial intelligence
-- 🌱 I’m currently learning ... fullstack webdevlopement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Avishek Patra (@DeAvishek)
 
-<h2>Language ,tools and Framaworks</h2>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="ExpressJs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="40" height="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" alt="Graphql">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width="40" height="40" alt="Oauth"/>
-  <!-- Add more icons here -->
-</div>
-<h2>Connect with Me</h2>
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqTfghgTvbKVzTtnwSXTWjmhJrZfHWxwWbXBTMNsQZGhwfmPkXRMBBpbzghRCXzlxSsKbq" style="transform: translateY(-8px);">
-    <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" height="50" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/patraavishek/" style="transform: translateY(8px);">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourusername" style="transform: translateY(-8px);">
-    <img src="[https://www.svgrepo.com/show/452611/twitter.svg](https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492396.png)" width="50" height="50" alt="Twitter"/>
-  </a>
+- 👀 Interested in **Software Development (Web)**, **Machine Learning**, and **Artificial Intelligence**  
+- 🌱 Currently learning **Full-Stack Web Development**  
+- 💼 Open to **collaborations** and exciting projects  
+- 📫 Reach me through the links below  
+
+---
+
+## 🚀 Languages, Tools & Frameworks  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width="40" height="40" />
 </div>
 
-<h2>My Competitive Profiles</h2>
-<div>
-  <a href="https://leetcode.com/u/Code_or_Die" target="_blank">
-    <img src="https://store-images.s-microsoft.com/image/apps.20819.12392bc6-d428-4ae9-8494-fa0e23364b47.1768baa2-b5e8-4b05-8ec9-7ac09a6f45b2.90596b28-842d-42b8-969d-8ce51502f758" width="50" height="50" alt="LeetCode" />
+---
+
+## 🌐 Connect with Me  
+<div align="center" style="display: flex; gap: 20px;">
+  <a href="mailto:patraavishek@gmail.com">
+    <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" />
   </a>
-  <a href="vv">
-  <img src =  "content://media/external/downloads/1000391456"  />
+  <a href="https://www.linkedin.com/in/patraavishek/">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="50" />
   </a>
 </div>
-<h2>Personal Projects</h2>
 
+---
 
+## 🏆 Competitive Profiles  
+<div align="center">
+  <a href="https://leetcode.com/u/Code_or_Die">
+    <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" />
+  </a>
+  <!-- Add more competitive sites like Codeforces, HackerRank if you have -->
+</div>
+
+---
+
+## 💡 Personal Projects  
+- 🎟 **Movie Ticket Booking App (MERN + Razorpay)** – Dynamic seat booking & recommendations  
+- 💰 **Expense Tracker (MERN)** – Track & visualize expenses  
+- 🤖 **AI-Powered Appointment Booking App** – Coming soon  
+
+---
