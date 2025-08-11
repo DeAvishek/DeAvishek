@@ -30,7 +30,7 @@
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername" style="transform: translateY(-8px);">
-    <img src="https://www.svgrepo.com/show/452611/twitter.svg" width="50" height="50" alt="Twitter"/>
+    <img src="[https://www.svgrepo.com/show/452611/twitter.svg](https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492396.png)" width="50" height="50" alt="Twitter"/>
   </a>
 </div>
 
