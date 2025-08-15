@@ -54,7 +54,7 @@
 ---
 
 ## 💡 Personal Projects  
-- 🎟 **Movie Ticket Booking App (MERN + Stripe)** – Dynamic seat booking & recommendations  
+- 🎟 **Movie Ticket Booking App (MERN + Stripe)** – Dynamic seat booking & recommendations <a href="https://filmfusion-xpxp.onrender.com/">Live demmo</a>
 - 💰 **Expense Tracker (MERN)** – Track & visualize expenses  
 - 🤖 **AI-Powered Appointment Booking App** – Coming soon  
 
