@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Avishek Patra (@DeAvishek)
 
-- 👀 Interested in **Software Development (Web)**, **Machine Learning**, and **Artificial Intelligence**  
-- 🌱 Currently learning **Full-Stack Web Development**  
+- 👀 Interested in **Software Development (Web)**, **Machine Learning**, and **Computer vision**
+- 🌱 Currently learning **Full-Stack SW Development**  
 - 💼 Open to **collaborations** and exciting projects  
 - 📫 Reach me through the links below  
 
