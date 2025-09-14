@@ -56,6 +56,6 @@
 ## 💡 Personal Projects  
 - 🎟  **Movie Ticket Booking App (MERN + Stripe)** – Dynamic seat booking & recommendations <a href="https://filmfusion-xpxp.onrender.com/">Live Demo</a>
 - 🤖 **AI-Powered Mystrey Message App** – <a href="https://true-feedback-hixr.onrender.com/">Live Demo</a>
-- 📝 **Resume Analyzer** - fullstack ATS score predicter app using FastApi,Nextjs,nlp.(upcoming)  
+- 📝 **Resume Analyzer** - fullstack ATS score predicter app using FastApi,Nextjs,nlp.(upcoming).  
 
 ---
