@@ -24,7 +24,7 @@
 ---
 
 ## 🌐 Connect with Me  
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display:flex; gap:20px; align-items: center;">
   <a href="mailto:patraavishek@gmail.com">
     <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" width="50" />
   </a>
@@ -39,8 +39,8 @@
 ---
 
 ## 🏆 Competitive Profiles  
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://leetcode.com/u/Code_or_Die">
+<div style="display: flex; gap:100px; align-items:center;">
+  <a href="https://leetcode.com/u/CodeDokg/">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/patraavic579/">
