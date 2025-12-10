@@ -43,7 +43,7 @@
   <a href="https://leetcode.com/u/CodeDokg/">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/patraavic579/">
+  <a href="https://www.geeksforgeeks.org/profile/codedok">
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210224031038/Capture4-300x174.PNG" width="50"/>
   </a>
 </div>
