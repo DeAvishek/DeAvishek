@@ -3,7 +3,8 @@
 - 👀 Interested in **Software Development**, **Machine Learning**, and **Computer vision**
 - 🌱 Currently learning **Full-Stack SW Development**  
 - 💼 Open to **collaborations** and exciting projects  
-- 📫 Reach me through the links below  
+- 📫 Reach me through the links below
+- currently expr
 
 ---
 
