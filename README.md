@@ -4,7 +4,6 @@
 - 🌱 Currently learning **Full-Stack SW Development**  
 - 💼 Open to **collaborations** and exciting projects  
 - 📫 Reach me through the links below
-- currently expr
 
 ---
 
