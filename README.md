@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Avishek Patra (@DeAvishek)
 
 - 👀 Interested in **Software Development**, **Machine Learning**, and **Computer vision**
-- 🌱 Currently learning **Full-Stack SW Development**  
+- 🌱 Currently exploring **Andriod App Devlopement** 
 - 💼 Open to **collaborations** and exciting projects  
-- 📫 Reach me through the links below
 
 ---
 
