@@ -19,15 +19,15 @@
 </a>
 
 <a href="https://www.codechef.com/users/av1shekpatra" target="_blank">
-  <img src="https://skillicons.dev/icons?i=codechef" height="40" style="margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" style="margin:6px;"/>
 </a>
 
 <a href="https://leetcode.com/u/codedokg/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40" style="margin:6px;"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" style="margin:6px;"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/codedok" target="_blank">
-  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40" style="margin:6px;"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" style="margin:6px;"/>
 </a>
 </p>
 
