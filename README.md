@@ -1,106 +1,157 @@
-<h1 align="center">Hi 👋, I'm DeAvishek</h1>
-<h3 align="center">Passionate Learner in Field Of Computer Science and Engineering</h3>
+<h1 align="center" style="color:#2f80ed; font-family:Arial;">
+  Hi 👋, I'm DeAvishek
+</h1>
 
-- 🌱 I’m currently learning **Android App Devlopement**
+<h3 align="center" style="color:#555;">
+  Passionate Learner in Computer Science & Engineering
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/patraavishek/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patraavishek/" height="30" width="40" />
-</a>
-<a href=https://www.codechef.com/users/av1shekpatra" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/av1shekpatra" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/codedokg/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/codedokg/" height="30" width="40" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/codedok" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/codedok" height="30" width="40" /></a>
+<p align="center" style="font-size:16px;">
+  🌱 Currently learning <b style="color:#27ae60;">Android App Development</b>
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
+---
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3>Frameworks</h3>
+<h3 style="color:#2f80ed;">🌐 Connect with me</h3>
 <p>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
+<a href="https://www.linkedin.com/in/patraavishek/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.codechef.com/users/av1shekpatra" target="_blank">
+  <img src="https://skillicons.dev/icons?i=codechef" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://leetcode.com/u/codedokg/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/codedok" target="_blank">
+  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40" style="margin:6px;"/>
+</a>
 </p>
 
-<h3 align="left">Devops</h3>
-<p align="left">
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-   </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-   </a> 
-   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-   </a>
+---
+
+<h3 style="color:#2f80ed;">💻 Languages</h3>
+<p>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.java.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin:6px;"/>
+</a>
 </p>
 
-<h3>Tools & Software</h3>
-<p align="left">
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-    </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-   </a> 
+---
+
+<h3 style="color:#2f80ed;">⚙️ Frameworks</h3>
+<p>
+<a href="https://spring.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" style="margin:6px;"/>
+</a>
 </p>
 
-<h3>Databases & Data visualisation</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
+---
+
+<h3 style="color:#2f80ed;">🚀 DevOps</h3>
+<p>
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://kubernetes.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.jenkins.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" style="margin:6px;"/>
+</a>
+</p>
+
+---
+
+<h3 style="color:#2f80ed;">🛠 Tools & Software</h3>
+<p>
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://graphql.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://redux.js.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redux" height="40" style="margin:6px;"/>
+</a>
+</p>
+
+---
+
+<h3 style="color:#2f80ed;">🗄 Databases & Data</h3>
+<p>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://redis.io" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" style="margin:6px;"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" style="margin:6px;"/>
+</a>
+</p>
+
+---
+
+<h3 style="color:#2f80ed;">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedokg&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedokg&theme=tokyonight" />
 </p>
