@@ -158,11 +158,53 @@
 
 ---
 
-<h3 style="color:#2f80ed;">Competetive Stats</h3>
+<h2 align="center" style="color:#2f80ed;">💻 Coding Profiles & Stats</h2>
+
+<p align="center" style="font-size:16px;">
+  💡 Solved <b style="color:#27ae60;">350+ DSA problems</b> across platforms
+</p>
+
+<!-- Profile Links -->
+<p align="center">
+  <a href="https://leetcode.com/u/codedokg/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/codedok" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+
+  <a href="https://www.codechef.com/users/av1shekpatra" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
+
+---
+
+<!-- LeetCode Stats -->
+<h3 align="center" style="color:#2f80ed;">📊 LeetCode Stats</h3>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/codedokg?theme=dark&font=Karma&ext=contest" />
 </p>
+
+---
+
+<!-- GFG Stats -->
+<h3 align="center" style="color:#2f80ed;">📊 GeeksforGeeks Stats</h3>
+
 <p align="center">
   <img src="https://gfgstatscard.vercel.app/codedok" />
+</p>
+
+---
+
+<!-- Optional: CodeChef (simple badge since no good card) -->
+<h3 align="center" style="color:#2f80ed;">🏆 CodeChef</h3>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/av1shekpatra">
+    <img src="https://img.shields.io/badge/View%20Profile-CodeChef-brown?style=for-the-badge&logo=codechef" />
+  </a>
 </p>
 
