@@ -163,6 +163,6 @@
   <img src="https://leetcard.jacoblin.cool/codedokg?theme=dark&font=Karma&ext=contest" />
 </p>
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=codedokg&theme=dark" />
+  <img src="https://gfgstatscard.vercel.app/codedok" />
 </p>
 
