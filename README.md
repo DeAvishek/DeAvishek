@@ -136,7 +136,7 @@
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" style="margin:6px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" style="margin:6px;"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
