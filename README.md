@@ -161,6 +161,8 @@
   <img src="https://leetcard.jacoblin.cool/codedokg?theme=dark&font=Karma&ext=contest" />
 </p>
 <p align="center">
-  <img src="https://gfgstatscard.vercel.app/codedok" />
+  <a href="https://www.geeksforgeeks.org/user/codedok">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
 </p>
 
