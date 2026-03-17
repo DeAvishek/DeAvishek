@@ -156,7 +156,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deAvishek&theme=tokyonight" />
 </p>
 ---
-<h3 style="color:#2f80ed;">Leetcode Stats</h3>
+<h3 style="color:#2f80ed;">Competetive Stats</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/codedokg?theme=dark&font=Karma&ext=contest" />
 </p>
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/codedok" />
+</p>
+
