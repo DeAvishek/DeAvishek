@@ -149,7 +149,7 @@
 <h2 align="center" style="color:#2f80ed;">💻 Coding Profiles & Stats</h2>
 
 <p align="center" style="font-size:16px;">
-  💡 Solved <b style="color:#27ae60;">350+ DSA problems</b> across platforms
+  💡 Solved <b style="color:#27ae60;">650+ DSA problems</b> across platforms
 </p>
 
 <!-- Profile Links -->
