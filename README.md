@@ -149,9 +149,9 @@
 <h3 style="color:#2f80ed;">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedokg&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deAvishek&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedokg&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deAvishek&theme=tokyonight" />
 </p>
