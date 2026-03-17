@@ -155,14 +155,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deAvishek&theme=tokyonight" />
 </p>
+
 ---
+
 <h3 style="color:#2f80ed;">Competetive Stats</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/codedokg?theme=dark&font=Karma&ext=contest" />
 </p>
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/codedok">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
+  <img src="https://leetcode-stats-six.vercel.app/?username=codedokg&theme=dark" />
 </p>
 
