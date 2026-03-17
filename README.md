@@ -11,23 +11,61 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/codedok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/codedok" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<style>
+  .section {
+    margin-bottom: 30px;
+  }
+
+  .icon-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* space between icons */
+    padding: 15px;
+    background: #0f172a; /* dark modern background */
+    border-radius: 12px;
+  }
+
+  .icon-container a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background: #1e293b;
+    border-radius: 10px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .icon-container a:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  }
+
+  h3 {
+    margin-bottom: 10px;
+    color: #38bdf8;
+    font-weight: 600;
+  }
+</style>
+
+<div class="section">
+  <h3>Languages</h3>
+  <div class="icon-container">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
-
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-</p>
+  </div>
+</div>
 
-<h3>Frameworks</h3>
-<p>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<div class="section">
+  <h3>Frameworks</h3>
+  <div class="icon-container">
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
@@ -39,11 +77,13 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
-</p>
+  </div>
+</div>
 
-<h3 align="left">Devops</h3>
-<p align="left">
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<div class="section">
+  <h3>DevOps</h3>
+  <div class="icon-container">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
    </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -55,10 +95,12 @@
    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
    </a>
-</p>
+  </div>
+</div>
 
-<h3>Tools & Software</h3>
-<p align="left">
+<div class="section">
+  <h3>Tools & Software</h3>
+  <div class="icon-container">
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
     </a> 
@@ -77,11 +119,13 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
    </a> 
-</p>
+  </div>
+</div>
 
-<h3>Databases & Data visualisation</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<div class="section">
+  <h3>Databases & Data Visualization</h3>
+  <div class="icon-container">
+  a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -96,4 +140,5 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
-</p>
+  </div>
+</div>
