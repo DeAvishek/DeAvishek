@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#555;">
-  Passionate Learner in Computer Science & Engineering
+  Passionate Learner in Field of Computer Science & Engineering
 </h3>
 
 <p align="center" style="font-size:16px;">
@@ -187,12 +187,4 @@
 
 ---
 
-<!-- Optional: CodeChef (simple badge since no good card) -->
-<h3 align="center" style="color:#2f80ed;">🏆 CodeChef</h3>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/av1shekpatra">
-    <img src="https://img.shields.io/badge/View%20Profile-CodeChef-brown?style=for-the-badge&logo=codechef" />
-  </a>
-</p>
 
