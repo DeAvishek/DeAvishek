@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center" style="font-size:16px;">
-  🌱 Currently learning <b style="color:#27ae60;">Android App Development</b>
+  🌱 Currently Exploring <b style="color:#27ae60;">Android App Development</b>
 </p>
 
 ---
