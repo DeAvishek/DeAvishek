@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/patraavishek/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin:6px;"/>
 </a>
+<a href="https://www.linkedin.com/in/patraavishek/" target="_blank">
+  <img src="https://icons8.com/icon/phOKFKYpe00C/x" height="40" style="margin:6px;"/>
+</a>
 </p>
 
 ---
