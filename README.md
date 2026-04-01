@@ -2,7 +2,7 @@
   Hi 👋, I'm DeAvishek
 </h1>
 
-<h3 align="center" style="color:#555;">
+<h3 align="center" style="color:#666;">
   Passionate Learner in Field of Computer Science & Engineering
 </h3>
 
