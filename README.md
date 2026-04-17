@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center" style="font-size:16px;">
-  🌱 Currently Exploring <b style="color:#27ae60;">Android App Development with Expo </b>
+  🌱 Currently Exploring <b style="color:#27ae60;">Android App Development with Expo & Machine Learning </b>
 </p>
 
 ---
