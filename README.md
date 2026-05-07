@@ -26,12 +26,11 @@
 
 <h3 style="color:#2f80ed;">💻 Languages</h3>
 <p>
+  <a href="https://www.java.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="40" style="margin:6px;"/>
+</a>
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin:6px;"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" height="40" style="margin:6px;"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
