@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#666;">
-  Passionate Learner in Field of Computer Science & Engineering
+  Passionate Learner in Field of Computer Science & Engineering.
 </h3>
 
 <p align="center" style="font-size:16px;">
